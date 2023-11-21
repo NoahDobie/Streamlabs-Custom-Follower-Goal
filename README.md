@@ -11,3 +11,8 @@ A custom follower goal widget for use with Streamlabs and other stream software.
 5. Check "Enable Custom Code"
 6. Enter HTML, CSS, and JS into corresponding sections
 7. Done!
+
+## Credits
+Modified from Alvarotrigo's Codepen!
+Thank you!
+https://codepen.io/alvarotrigo/pen/VwMvydQ
