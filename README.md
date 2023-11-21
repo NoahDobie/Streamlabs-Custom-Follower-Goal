@@ -1,7 +1,7 @@
 # Streamlabs Custom Follower Goal
 A custom follower goal widget for use with Streamlabs and other stream software.
 ## Preview
-![Screenshot 2023-11-21 122726](https://github.com/NoahDobie/Streamlabs-Custom-Follower-Goal/assets/122558645/b49b7607-01d0-4753-ac02-0d345688820b)
+![Screenshot 2023-11-21 122726](https://github.com/NoahDobie/Streamlabs-Custom-Follower-Goal/assets/122558645/823b114b-5f80-44c5-8124-737535c17e4b)
 
 ## How to Use
 1. Open Streamlabs Desktop
