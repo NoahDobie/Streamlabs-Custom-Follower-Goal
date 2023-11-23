@@ -8,7 +8,7 @@ A custom follower goal widget for use with Streamlabs and other stream software.
 2. Right click on Follower Goal Widget
 3. Click Properties
 4. Set your current Goal Settings in the "Widget Editor" tab (title, current amt., goal, date)
-5. Set the Width/Height of the widget to be square (i.e. 200px x 200px or any other values)
+5. MOST IMPORTANT: Set the Width/Height of the widget to be 200px by 200px (You can resize on the dashboard later)
 6. Click "HTML CSS" tab
 7. Check "Enable Custom Code"
 8. Enter HTML, CSS, and JS into corresponding sections
