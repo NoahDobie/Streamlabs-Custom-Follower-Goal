@@ -16,8 +16,3 @@ A custom follower goal widget for use with Streamlabs and other stream software.
 
 ## Changing Colors
 Super easy! Just edit the two values (--text-color and 3 --color-gradient-X) in the top (:root) section of the CSS!
-
-## Credits
-Modified from Alvarotrigo's Codepen!
-Thank you!
-https://codepen.io/alvarotrigo/pen/VwMvydQ
